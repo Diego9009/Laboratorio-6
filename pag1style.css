@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(128, 209, 243);
+}
+body nav{
+    background-color: transparent;
+}
+#carouselExampleControls{
+    margin: 180px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#gpt{
+   width: 500px;
+   align-items: center;
+}
+#piedef{
+    margin-top: 10px;
+    font-size: x-large;
+    background-color: rgb(173, 231, 240);
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#primeraf{
+    margin-left: 300px;
+}
+.p-2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}

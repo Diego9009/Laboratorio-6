@@ -1,0 +1,60 @@
+body {
+    background-image: url(https://www.wpp.com/-/media/project/wpp/images/voices/ai-and-the-personalised-marketing-approach-of-the-future-min.jpg);
+    background-size: cover;
+
+}
+#container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+      
+#container div {
+        width: 50%;
+        padding: 30px;
+}
+p {
+    background-color:rgb(204, 132, 65);
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-align: center;
+    color:white;
+}
+#button{
+    background-color: rgb(204, 132, 65);
+    border-color: rgb(204, 132, 65);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    margin-left: 30px;
+}
+#staticBackdropLabel{
+    color: black;
+ }
+#staticBackdrop{
+    background-image: url(https://th.bing.com/th/id/R.998736e522f6d829f5a2e5da4575e2ac?rik=y0WMDSLxY53IdA&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.modal-body{
+    background-color: rgb(153, 188, 230);
+}
+.modal-header{
+    background-color: rgb(153, 188, 230);
+}
+.modal-footer{
+    background-color: rgb(153, 188, 230);
+}
+#button2{
+    background-color: powderblue;
+}
+#button3{
+    background-color: powderblue;
+}
+.img1{
+    width: 600px;
+    overflow: hidden;
+}
